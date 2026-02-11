@@ -10,9 +10,9 @@ class Solution(object):
             for r in unique:
                 freq[r] = freq.get(r, 0) + 1
 
-        max = max(freq.values())
+        max_ = max(freq.values())
 
-        answer = [r for r, count in freq.items() if count == max]
+        answer = [r for r, count in freq.items() if count == max_]
         return min(answer)
 
 
