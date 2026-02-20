@@ -1,13 +1,13 @@
 class Solution(object):
     def hIndex(self, citations):
-        citations.sort()
-        n=len(citations)
-        if n % 2 ==1:
-             res=citations[n//2]
-        else:
-            res=citations[n//2-1]
-        return res    
-
+        citations.sort(reverse=True) 
+        h = 0
+        for i, c in enumerate(citations):
+            if c >= i + 1: 
+                h = i + 1
+            else:
+                break
+        return h
 
            
        
