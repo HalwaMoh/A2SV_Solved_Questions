@@ -1,11 +1,17 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        freq = {}
+class Solution:
+
+    def majorityElement(self,nums):
+        from collections import defaultdict
+
+    
         n = len(nums)
-
+        count = defaultdict(int)
+        
+    
         for num in nums:
-            freq[num] = freq.get(num, 0) + 1
-
-        for num, count in freq.items():
-            if count > n // 2:   # strictly greater
-                return num
+            count[num] += 1
+        
+       
+        result = [num for num, c in count.items() if c > n // 3]
+        
+        return result
