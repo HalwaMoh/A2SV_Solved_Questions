@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
