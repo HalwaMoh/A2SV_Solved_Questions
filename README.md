@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2381-shifting-letters-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
