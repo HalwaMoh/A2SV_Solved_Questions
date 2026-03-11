@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
