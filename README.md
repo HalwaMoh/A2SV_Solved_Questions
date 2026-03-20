@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0496-next-greater-element-i](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
