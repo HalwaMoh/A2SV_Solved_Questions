@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [1922-count-good-numbers](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Randomized
 |  |
 | ------- |
