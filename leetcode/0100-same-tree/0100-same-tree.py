@@ -10,7 +10,7 @@ class Solution(object):
         if not p and not q:
             return True
         
-        
+    
         if not p or not q:
             return False
         
