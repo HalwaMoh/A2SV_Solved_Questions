@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0228-summary-ranges) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
