@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0228-summary-ranges) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 ## Tree
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
