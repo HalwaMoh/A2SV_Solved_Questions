@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0228-summary-ranges) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0496-next-greater-element-i](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Backtracking
@@ -249,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
