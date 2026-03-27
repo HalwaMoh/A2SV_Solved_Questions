@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2381-shifting-letters-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0641-design-circular-deque](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0509-fibonacci-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Randomized
