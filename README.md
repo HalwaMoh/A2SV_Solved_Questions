@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
