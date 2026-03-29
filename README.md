@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Divide and Conquer
 |  |
