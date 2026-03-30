@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2381-shifting-letters-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Queue
 |  |
 | ------- |
