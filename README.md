@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
 |  |
