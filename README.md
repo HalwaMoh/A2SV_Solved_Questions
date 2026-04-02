@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
 |  |
@@ -315,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
