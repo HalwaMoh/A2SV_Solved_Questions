@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0885-spiral-matrix-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
 |  |
