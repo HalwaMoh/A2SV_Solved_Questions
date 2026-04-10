@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1598-crawler-log-folder](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2751-robot-collisions) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
 | ------- |
