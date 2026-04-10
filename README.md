@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 ## Tree
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0306-additive-number) |
+| [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
