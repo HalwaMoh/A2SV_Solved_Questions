@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
