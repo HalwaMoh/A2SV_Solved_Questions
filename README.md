@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2305-fair-distribution-of-cookies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2381-shifting-letters-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2751-robot-collisions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2751-robot-collisions) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2305-fair-distribution-of-cookies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [2305-fair-distribution-of-cookies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2305-fair-distribution-of-cookies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
@@ -402,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
