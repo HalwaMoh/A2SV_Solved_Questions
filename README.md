@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0055-jump-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
