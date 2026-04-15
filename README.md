@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
