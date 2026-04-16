@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
