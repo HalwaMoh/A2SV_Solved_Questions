@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0066-plus-one) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0140-word-break-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0290-word-pattern](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
