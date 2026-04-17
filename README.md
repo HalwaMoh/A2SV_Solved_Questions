@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [1672-richest-customer-wealth](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
 |  |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 ## String Matching
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Radix Sort
 |  |
 | ------- |
@@ -445,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
