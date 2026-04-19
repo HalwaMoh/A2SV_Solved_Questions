@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0140-word-break-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+| [0202-happy-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
