@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -461,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
