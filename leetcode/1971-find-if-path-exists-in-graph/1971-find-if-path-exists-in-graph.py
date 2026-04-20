@@ -1,7 +1,8 @@
 from collections import defaultdict
-class Solution(object):
+class Solution:
+    def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
+       
 
-    def validPath(self, n, edges, source, destination):
         graph=defaultdict(list)
         for node1 , node2 in edges:
             graph[node1].append(node2)
