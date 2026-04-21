@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0885-spiral-matrix-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [1672-richest-customer-wealth](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
