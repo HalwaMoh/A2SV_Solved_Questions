@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
