@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
+| [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
