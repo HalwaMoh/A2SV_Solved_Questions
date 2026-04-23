@@ -10,6 +10,7 @@ class Solution:
             grid[r][c]='0'    
             for dr,dc in direction:
                 new_row,new_col=r+dr, c+dc
+                
                 dfs(new_row, new_col)    
         for i in range(row):
             for j in range(col):
