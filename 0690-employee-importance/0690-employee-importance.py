@@ -12,19 +12,22 @@ class Solution:
         hashmap={}
         for employee in employees:
             hashmap[employee.id]= [employee.importance, employee.subordinates]
-        cnt=0    
-        def dfs(idd):
-            nonlocal cnt
+        cnt=0  
+        stack=[]  
+        for emp in employees:
+            if emp.id==id:
+                stack.append(id)
+
+        while stack:
+            idd=stack.pop()
             val = hashmap[idd] #[5,[2,3]]
             cnt += val[0]
             if val[1]:
                 for i in val[1]:
-                    dfs(i)
+                    stack.append(i)
                 
-        for emp in employees:
-            if emp.id==id:
-                dfs(emp.id)
-                return cnt        
+       
+        return cnt        
 
 
 
