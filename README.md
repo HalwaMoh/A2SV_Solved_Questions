@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [1672-richest-customer-wealth](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2305-fair-distribution-of-cookies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2469-convert-the-temperature](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2469-convert-the-temperature) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -500,4 +504,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
