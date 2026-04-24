@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0797-all-paths-from-source-to-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0797-all-paths-from-source-to-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0690-employee-importance](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0797-all-paths-from-source-to-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -495,5 +498,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
