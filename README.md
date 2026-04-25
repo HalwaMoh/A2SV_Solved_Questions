@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0394-decode-string) |
+| [0763-partition-labels](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1598-crawler-log-folder](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0330-patching-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0330-patching-array) |
+| [0763-partition-labels](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0763-partition-labels](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0763-partition-labels](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
