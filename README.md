@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Number Theory
 |  |
