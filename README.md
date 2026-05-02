@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2413-smallest-even-multiple](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2469-convert-the-temperature) |
 ## Randomized
 |  |
@@ -531,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
