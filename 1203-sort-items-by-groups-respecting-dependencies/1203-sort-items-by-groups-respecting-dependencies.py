@@ -1,12 +1,13 @@
 from collections import defaultdict, deque
-class Solution(object):
+
+class Solution:
     def sortItems(self, n, m, group, beforeItems):
-       
+        
+        
         for i in range(n):
             if group[i] == -1:
                 group[i] = m
                 m += 1
-        
         
         item_graph = defaultdict(list)
         item_indegree = [0]*n
@@ -23,6 +24,7 @@ class Solution(object):
                     group_graph[group[j]].append(group[i])
                     group_indegree[group[i]] += 1
         
+        
         def topo(nodes, graph, indegree):
             q = deque([x for x in nodes if indegree[x] == 0])
             res = []
@@ -34,11 +36,11 @@ class Solution(object):
                     if indegree[v] == 0:
                         q.append(v)
             return res if len(res) == len(nodes) else []
-        
+       
         group_order = topo(list(range(m)), group_graph, group_indegree)
         if not group_order:
             return []
-        
+     
         group_items = defaultdict(list)
         for i in range(n):
             group_items[group[i]].append(i)
