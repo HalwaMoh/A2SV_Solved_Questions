@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0885-spiral-matrix-iii](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HalwaMoh/A2SV_Solved_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
